@@ -1,0 +1,16 @@
+D:\Usuários\Eduardo.Zimbre\Área de Trabalho\workspace.NET\DigitalInnovationOne\bin\Debug\net5.0\DigitalInnovationOne.exe
+D:\Usuários\Eduardo.Zimbre\Área de Trabalho\workspace.NET\DigitalInnovationOne\bin\Debug\net5.0\DigitalInnovationOne.deps.json
+D:\Usuários\Eduardo.Zimbre\Área de Trabalho\workspace.NET\DigitalInnovationOne\bin\Debug\net5.0\DigitalInnovationOne.runtimeconfig.json
+D:\Usuários\Eduardo.Zimbre\Área de Trabalho\workspace.NET\DigitalInnovationOne\bin\Debug\net5.0\DigitalInnovationOne.runtimeconfig.dev.json
+D:\Usuários\Eduardo.Zimbre\Área de Trabalho\workspace.NET\DigitalInnovationOne\bin\Debug\net5.0\DigitalInnovationOne.dll
+D:\Usuários\Eduardo.Zimbre\Área de Trabalho\workspace.NET\DigitalInnovationOne\bin\Debug\net5.0\ref\DigitalInnovationOne.dll
+D:\Usuários\Eduardo.Zimbre\Área de Trabalho\workspace.NET\DigitalInnovationOne\bin\Debug\net5.0\DigitalInnovationOne.pdb
+D:\Usuários\Eduardo.Zimbre\Área de Trabalho\workspace.NET\DigitalInnovationOne\obj\Debug\net5.0\DigitalInnovationOne.csprojAssemblyReference.cache
+D:\Usuários\Eduardo.Zimbre\Área de Trabalho\workspace.NET\DigitalInnovationOne\obj\Debug\net5.0\DigitalInnovationOne.GeneratedMSBuildEditorConfig.editorconfig
+D:\Usuários\Eduardo.Zimbre\Área de Trabalho\workspace.NET\DigitalInnovationOne\obj\Debug\net5.0\DigitalInnovationOne.AssemblyInfoInputs.cache
+D:\Usuários\Eduardo.Zimbre\Área de Trabalho\workspace.NET\DigitalInnovationOne\obj\Debug\net5.0\DigitalInnovationOne.AssemblyInfo.cs
+D:\Usuários\Eduardo.Zimbre\Área de Trabalho\workspace.NET\DigitalInnovationOne\obj\Debug\net5.0\DigitalInnovationOne.csproj.CoreCompileInputs.cache
+D:\Usuários\Eduardo.Zimbre\Área de Trabalho\workspace.NET\DigitalInnovationOne\obj\Debug\net5.0\DigitalInnovationOne.dll
+D:\Usuários\Eduardo.Zimbre\Área de Trabalho\workspace.NET\DigitalInnovationOne\obj\Debug\net5.0\ref\DigitalInnovationOne.dll
+D:\Usuários\Eduardo.Zimbre\Área de Trabalho\workspace.NET\DigitalInnovationOne\obj\Debug\net5.0\DigitalInnovationOne.pdb
+D:\Usuários\Eduardo.Zimbre\Área de Trabalho\workspace.NET\DigitalInnovationOne\obj\Debug\net5.0\DigitalInnovationOne.genruntimeconfig.cache
